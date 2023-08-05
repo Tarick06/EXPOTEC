@@ -1,2 +1,1 @@
-# EXPOTEC
-Projeto da expotec 
+
